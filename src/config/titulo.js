@@ -1,1 +1,2 @@
-module.exports = 'Ecored Base PKG'
+module.exports =
+  'Elementos, métodos y herramientas para el cálculo de costos de operación'
