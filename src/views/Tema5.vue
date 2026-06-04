@@ -162,7 +162,7 @@
         p.mb-5 A continuación, se presenta un video sobre los formatos y plantillas organizacionales para el registro de costos, destacando su importancia en la organización, control y trazabilidad de la información dentro de los sistemas de costeo empresariales.
         figure(data-aos="zoom-in").mb-5
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/NlJWlyiaSMY?si=XqboUlSLfCN9WG5O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
           figcaption #[b Video]. Importancia de los formatos organizacionales en el sistema de costeo empresarial
     p.mb-5 Se presentan los formatos básicos para registrar la información de costos en la empresa. El propósito es resaltar que el proceso de costeo debe respaldarse con soportes documentales claros, coherentes y consistentes.
     .bg-2

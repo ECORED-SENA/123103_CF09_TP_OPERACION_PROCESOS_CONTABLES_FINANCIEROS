@@ -272,14 +272,163 @@ export default {
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: 'Asignación de costos',
+      significado:
+        'Proceso mediante el cual los costos directos e indirectos se distribuyen a un producto, servicio, orden o centro de costo, según criterios técnicos definidos.',
+    },
+    {
+      termino: 'Base de asignación',
+      significado:
+        'Medida utilizada para distribuir costos indirectos entre productos, servicios o procesos, como horas de mano de obra, horas máquina o unidades producidas.',
+    },
+    {
+      termino: 'Centro de costo',
+      significado:
+        'Área, proceso o dependencia de la empresa donde se acumulan, controlan o analizan costos para su posterior distribución o evaluación.',
+    },
+    {
+      termino: 'Costo de operación',
+      significado:
+        'Valor de los recursos consumidos en la producción de bienes o en la prestación de servicios dentro de una empresa.',
+    },
+    {
+      termino: 'Costo directo',
+      significado:
+        'Costo que puede identificarse y asociarse de manera inmediata con un producto, servicio, orden o actividad específica.',
+    },
+    {
+      termino: 'Costo indirecto',
+      significado:
+        'Costo necesario para la operación, pero que no puede relacionarse de manera inmediata con un solo objeto de costo y requiere un criterio de asignación.',
+    },
+    {
+      termino: 'Costeo por actividades',
+      significado:
+        'Metodología que asigna los costos indirectos a los productos o servicios según las actividades realizadas y los generadores de costo asociados.',
+    },
+    {
+      termino: 'Costeo por órdenes',
+      significado:
+        'Sistema de costeo que acumula y calcula los costos por pedido, lote o trabajo específico.',
+    },
+    {
+      termino: 'Costeo por procesos',
+      significado:
+        'Sistema de costeo utilizado cuando la producción es continua y homogénea, acumulando los costos por departamentos o etapas del proceso.',
+    },
+    {
+      termino: 'Costos indirectos de fabricación (CIF)',
+      significado:
+        'Conjunto de costos relacionados con la producción que no se identifican directamente con una unidad específica, como energía, supervisión, depreciación o mantenimiento.',
+    },
+    {
+      termino: 'Hoja de costeo',
+      significado:
+        'Formato físico o digital donde se consolidan materiales, mano de obra y costos indirectos para calcular el costo total y unitario de un producto o servicio.',
+    },
+    {
+      termino: 'Mano de obra directa',
+      significado:
+        'Trabajo del personal que interviene de manera directa en la fabricación del producto o en la ejecución principal del servicio.',
+    },
+    {
+      termino: 'Materia prima',
+      significado:
+        'Material principal que se transforma o se incorpora al producto durante el proceso productivo.',
+    },
+    {
+      termino: 'Requisición de materiales',
+      significado:
+        'Documento que registra la salida de materiales del almacén para ser utilizados en una orden, lote, proceso o actividad determinada.',
+    },
+    {
+      termino: 'Tarjeta de tiempo',
+      significado:
+        'Registro utilizado para controlar el tiempo trabajado por un operario o empleado en una orden, proceso, actividad o servicio específico.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Academia EBC. (2025, febrero 27). Sistema de costeo por procesos [Vídeo]. YouTube.',
+      link: 'https://www.youtube.com/watch?v=XeZuzD_Ev60',
+    },
+    {
+      referencia:
+        'Cuevas, C. F. (2001). Contabilidad de costos: enfoque gerencial y de gestión (2.ª ed.). Pearson Educación de Colombia.',
       link: '',
+    },
+    {
+      referencia:
+        'Cuevas, C. F. (2010). Contabilidad de costos: enfoque gerencial y de gestión (3.ª ed.). Pearson Educación.',
+      link: '',
+    },
+    {
+      referencia:
+        'Díaz, D. (2025, junio 15). Tabla de costos en Excel para principiantes [Vídeo]. YouTube.',
+      link: 'https://www.youtube.com/watch?v=01pIjU3cIXU',
+    },
+    {
+      referencia:
+        'Edutin Academy. (2025, octubre 11). Costeo basado en actividades (ABC): curso de contabilidad [Vídeo]. YouTube.',
+      link: 'https://www.youtube.com/watch?v=Cxx6t5_V3s0',
+    },
+    {
+      referencia:
+        'Función Pública. (2015). Decreto 2420 de 2015, Anexo 2. Gestor Normativo.',
+      link:
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=76745',
+    },
+    {
+      referencia:
+        'García Colín, J. (2014). Contabilidad de costos (4.ª ed.). McGraw-Hill Interamericana.',
+      link: '',
+    },
+    {
+      referencia:
+        'Hansen, D. R. (2007). Administración de costos: contabilidad y control (5.ª ed.). Cengage Learning.',
+      link: '',
+    },
+    {
+      referencia:
+        'Hansen, D. R., & Mowen, M. M. (2003). Administración de costos: contabilidad y control. International Thomson Editores.',
+      link: '',
+    },
+    {
+      referencia:
+        'Horngren, C. T. (2012). Contabilidad de costos: un enfoque gerencial. Pearson Educación.',
+      link: '',
+    },
+    {
+      referencia:
+        'Ingeniería Industrial Easy. (2024, agosto 30). Costeo ABC o costeo basado en actividades: caso práctico [Vídeo]. YouTube.',
+      link: 'https://www.youtube.com/watch?v=DNWirlDkyg4',
+    },
+    {
+      referencia:
+        'Jeison Stiven Aya Gaita. (2020, junio 13). Cómo hacer una tabla de costos en Excel [Vídeo]. YouTube.',
+      link: 'https://www.youtube.com/watch?v=Wqr-5t-RFXg',
+    },
+    {
+      referencia:
+        'Luna-Altamirano, K. A., & Moreno-Narváez, V. P. (2020). Sistema de costos basado en actividades ABC/ABM como herramienta de gestión en C. V. Confecciones Jevalusa. CIENCIAMATRIA.',
+      link: '',
+    },
+    {
+      referencia:
+        'MayuGo. (2023, marzo 12). Costos por órdenes de producción/trabajo: curso de costos de producción [Vídeo]. YouTube.',
+      link: 'https://www.youtube.com/watch?v=GN7HsLEBn5U',
+    },
+    {
+      referencia:
+        'Presidencia de la República de Colombia. (2015). Decreto 2420 de 2015. Gestor Normativo.',
+      link:
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=76745',
+    },
+    {
+      referencia:
+        'Universidad Católica San Pablo. (2015, octubre 13). Costos por procesos continuos - Costos II - #UCSPTutoriales [Vídeo]. YouTube.',
+      link: 'https://www.youtube.com/watch?v=u21i7Z1T5Kg',
     },
   ],
   creditos: [
@@ -287,59 +436,111 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre completo',
-          cargo: 'Responsable del ecosistema',
-          centro: 'Dirección General',
+          nombre: 'Claudia Johanna Gómez Pérez',
+          cargo:
+            'Profesional 06 - Responsable ecosistema virtual de recursos educativos digitales',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Nombre completo',
-          cargo: 'Responsable de línea de producción',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Olga Constanza Bermúdez',
+          cargo: 'Responsable de Línea de Producción Huila',
+          centro: 'Dirección General',
         },
       ],
     },
+
     {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Paola Andrea Tello Zambrano',
+          cargo: 'Experto temático',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Paola Alexandra Moya',
+          cargo: 'Evaluadora instruccional',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },
+
     {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de contenidos',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Juan José Calderon Gutiérrez',
+          cargo: 'Diseñador de contenidos digitales',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Desarrollador <i>full stack</i>',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Cielo Damaris Angulo Rodríguez',
+          cargo: 'Desarrollador fullstack',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Animador y productor audiovisual',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Alejandro Delgado Acosta',
+          cargo: 'Intérprete lenguaje de señas',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Cristhian Giovanni Gordillo Segura',
+          cargo: 'Intérprete lenguaje de señas',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Juan Pablo Rojas Polania',
+          cargo: 'Animador y productor multimedia',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'María Carolina Tamayo López',
+          cargo: 'Locución',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'German Acosta Ramos',
+          cargo: 'Locución',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },
+
     {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Ricardo Oliveros Zambrano',
+          cargo: 'Validador de recursos educativos digitales',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Aixa Natalia Sendoya Fernández',
+          cargo: 'Validador de recursos educativos digitales',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Daniel Ricardo Mutis Gómez',
+          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Anyerson Wilfredo Pizo Ossa',
+          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },
