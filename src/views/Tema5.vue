@@ -610,7 +610,7 @@
                       tr.ajuste-color-tabla
                         td.ajuste-border-tabla.texto-left.text-weight-bold Reporte de productos o servicios con mayor costo
                         td.texto-left Priorizar acciones de control y análisis.
-            p.mb-5 La integración de sistemas reduce duplicidad y mejora trazabilidad. Si el kardex, la nómina y el registro de CIF pueden relacionarse entre sí, el analista evita transcribir datos varias veces. En empresas pequeñas esta integración puede ser manual, pero organizada; en empresas medianas o grandes puede apoyarse en un sistema más robusto.
+            p.mb-5 La integración de sistemas reduce duplicidad y mejora trazabilidad. Si el kardex, la nómina y el registro de CIF pueden relacionarse entre sí, el analista evita transcribir datos varias veces. En empresas pequeñas, esta integración puede ser manual, pero organizada; en empresas medianas o grandes puede apoyarse en un sistema más robusto.
             .row.justify-content-center.align-items-center.mb-5
               .col-lg.mb-4.mb-lg-0
                 p.mb-0 La seguridad de la información también es parte del costeo. Proteger archivos, restringir accesos, bloquear fórmulas críticas, conservar copias de respaldo y registrar cambios evita pérdidas, alteraciones no controladas y problemas de confiabilidad. En la práctica, una hoja de costos sin seguridad puede ser tan riesgosa como una hoja mal calculada.  A continuación, se presentan controles básicos para validación, reporte e integración de la información de costos.
