@@ -13,7 +13,7 @@
       .col-lg-auto.col-md-9(data-aos="fade-left")
         figure
           img(src="@/assets/curso/temas/img73.svg").m-auto
-    p.mb-5 En la cotidianidad empresarial, muchos errores de costeo no se originan en la metodología elegida, sino en la debilidad de los datos de consumo. Cuando la empresa no controla bien las salidas de materiales, no registra con claridad el tiempo trabajado o mezcla costos indirectos sin criterio de asignación, el resultado final pierde confiabilidad. De ahí que el cálculo de costos de operación exija una relación permanente entre datos de origen, fórmulas, parámetros técnicos y documentación de soporte. Esta lógica es consistente con los desarrollos de la contabilidad de costos y de la administración de costos, donde el costo útil para la gestión depende de la calidad del registro y de la consistencia del cálculo
+    p.mb-5 En la cotidianidad empresarial, muchos errores de costeo no se originan en la metodología elegida, sino en la debilidad de los datos de consumo. Cuando la empresa no controla bien las salidas de materiales, no registra con claridad el tiempo trabajado o mezcla costos indirectos sin criterio de asignación, el resultado final pierde confiabilidad. De ahí que el cálculo de costos de operación exija una relación permanente entre datos de origen, fórmulas, parámetros técnicos y documentación de soporte. Esta lógica es consistente con los desarrollos de la contabilidad de costos y de la administración de costos, donde el costo útil para la gestión depende de la calidad del registro y de la consistencia del cálculo.
     .bg-1
       .px-5
         #t_4_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -118,7 +118,7 @@
               .caja-7.mb-3.text-white.text-center(data-aos="zoom-in")
                 p.mb-0 Consumo de materiales = Inventario inicial + Compras netas - Inventario final
               p Esta fórmula es útil cuando la empresa quiere determinar el consumo total de un material en un período.
-              p Si, por ejemplo, inició con 120 kg de materia prima, compró 380 kg y terminó con 90 kg, el consumo será:
+              p Si, por ejemplo, inició con 120 kg de materia prima, compró 380 kg y terminó con 90 kg; el consumo será:
               .caja-7.mb-3.text-white.text-center(data-aos="zoom-in")
                 p.mb-0 120 + 380 - 90 = 410 kg
               p Si esos 410 kg se usaron para producir 2.050 unidades, el consumo unitario será:
@@ -139,14 +139,14 @@
               p En mano de obra directa, la determinación del consumo se hace en tiempo y luego se convierte en valor. La fórmula más frecuente es:
               .caja-7.mb-3.text-white.text-center(data-aos="zoom-in")
                 p.mb-0 Costo de mano de obra directa = Horas trabajadas × Tarifa por hora
-              p Si un operario dedicó 36 horas a un lote y la tarifa por hora es $18.500, el costo de MOD será:
+              p Si un operario dedicó 36 horas a un lote y la tarifa por hora es $ 18.500, el costo de MOD será:
               .caja-7.mb-3.text-white.text-center(data-aos="zoom-in")
-                p.mb-0 36 × $18.500 = $666.000
+                p.mb-0 36 × $ 18.500 = $ 666.000
           p.mb-0 Cuando la empresa registra minutos, primero debe convertirlos a horas o mantener una tarifa por minuto. Lo importante es que la unidad de tiempo sea consistente con el criterio de cálculo definido para el costeo.
     .row.justify-content-center.align-items-center.mb-5
       .col-xl.mb-4.mb-lg-0
         .caja-2.ajuste-caja-2-2(data-aos="fade-right")
-          p.mb-0 En los costos indirectos de fabricación u operación, la determinación parte de la acumulación de recursos que apoyan el proceso, pero que no pueden cargarse directamente a una sola unidad.Aquí aparecen conceptos como #[b energía, depreciación, supervisión, mantenimiento, servicios públicos, elementos de aseo o materiales indirectos].
+          p.mb-0 En los costos indirectos de fabricación u operación, la determinación parte de la acumulación de recursos que apoyan el proceso, pero que no pueden cargarse directamente a una sola unidad. Aquí aparecen conceptos como #[b energía, depreciación, supervisión, mantenimiento, servicios públicos, elementos de aseo o materiales indirectos].
       .col-lg-auto.col-md-9.mb-4.mb-lg-0(data-aos="zoom-in")
         figure
           img(src='@/assets/curso/temas/img79.jpg', alt='').m-auto
@@ -169,7 +169,7 @@
         tbody
           tr
             td.ajuste-border-tabla.texto-left.text-weight-bold Material directo
-            td.ajuste-border-tabla.texto-left II 120 kg + compras 380 kg - IF 90 kg
+            td.ajuste-border-tabla.texto-left II 120 kg + compras 380 kg - IF 90 kg.
             td.ajuste-border-tabla.texto-left II + compras - IF
             td.texto-left 410 kg consumidos
           tr.ajuste-color-tabla
@@ -179,28 +179,28 @@
             td.texto-left 0,20 kg por unidad
           tr
             td.ajuste-border-tabla.texto-left.text-weight-bold Mano de obra directa
-            td.ajuste-border-tabla.texto-left 36 horas a $18.500
+            td.ajuste-border-tabla.texto-left 36 horas a $ 18.500
             td.ajuste-border-tabla.texto-left Horas × tarifa
-            td.texto-left $666.000
+            td.texto-left $ 666.000
           tr.ajuste-color-tabla
             td.ajuste-border-tabla.texto-left.text-weight-bold CIF del período
-            td.ajuste-border-tabla.texto-left Energía $240.000 + mantenimiento $180.000 + supervisión $350.000
+            td.ajuste-border-tabla.texto-left Energía $ 240.000 + mantenimiento $ 180.000 + supervisión $ 350.000
             td.ajuste-border-tabla.texto-left Suma de CIF identificados
-            td.texto-left $770.000
+            td.texto-left $ 770.000
     .caja-4.p-5.mb-0(data-aos="fade-right")
       .row.justify-content-center.align-items-center.mb-3
         .col-lg.mb-4.mb-lg-0
           p #[b Ejemplo aplicado]
-          p Un taller de calzado registra para una orden de 300 pares: cuero consumido 210 m², suela 300 juegos, 48 horas de mano de obra directa y $540.000 de CIF del período aplicables a la orden.
-          p Si el cuero cuesta $16.000 por m² y cada juego de suela vale $4.500, el costo directo del material será:
+          p Un taller de calzado registra para una orden de 300 pares: cuero consumido 210 m², suela 300 juegos, 48 horas de mano de obra directa y $ 540.000 de CIF del período aplicables a la orden.
+          p Si el cuero cuesta $ 16.000 por m² y cada juego de suela vale $ 4.500, el costo directo del material será:
           .caja-7.mb-3.text-white.text-center(data-aos="zoom-in")
-            p.mb-0 210 × $16.000 = $3.360.000
-            p.mb-0 300 × $4.500 = $1.350.000
-            p.mb-0 Material directo total = $4.710.000
-          p Si la MOD vale $20.000 por hora:
+            p.mb-0 210 × $ 16.000 = $ 3.360.000
+            p.mb-0 300 × $ 4.500 = $ 1.350.000
+            p.mb-0 Material directo total = $ 4.710.000
+          p Si la MOD vale $ 20.000 por hora:
           .caja-7.mb-3.text-white.text-center(data-aos="zoom-in")
-            p.mb-0 48 × $20.000 = $960.000
-          p Hasta este punto, antes de distribuir o verificar CIF, la orden ya tiene acumulados $5.670.000 entre materiales y mano de obra.
+            p.mb-0 48 × $ 20.000 = $ 960.000
+          p Hasta este punto, antes de distribuir o verificar CIF, la orden ya tiene acumulados $ 5.670.000 entre materiales y mano de obra.
         .col-lg-auto.col-md-9(data-aos="fade-left")
           figure
             img(src="@/assets/curso/temas/img81.png").m-auto
@@ -242,27 +242,27 @@
             li.mb-0
               span.fa-li
                 i.fas.fa-check-circle
-              | Materiales directos: $1.420.000. 
+              | Materiales directos: $ 1.420.000. 
             li.mb-0
               span.fa-li
                 i.fas.fa-check-circle
-              | Mano de obra directa: $680.000. 
+              | Mano de obra directa: $ 680.000. 
             li.mb-0
               span.fa-li
                 i.fas.fa-check-circle
-              | CIF aplicados: $450.000. 
+              | CIF aplicados: $ 450.000. 
           p El costo total será:
           .caja-7.mb-3.text-white.text-center(data-aos="zoom-in")
-            p.mb-0 $1.420.000 + $680.000 + $450.000 = $2.550.000
+            p.mb-0 $ 1.420.000 + $ 680.000 + $ 450.000 = $ 2.550.000
           p Y el costo unitario:
           .caja-7.mb-3.text-white(data-aos="zoom-in")
             .row.align-items-center.justify-content-center
               .col-lg-6.texto-right
                 .caja-8.text-center
-                  p.mb-0.line--bottom $2.550.000
+                  p.mb-0.line--bottom $ 2.550.000
                   p.mb-0 500
               .col-lg-6.p-0
-                p.mb-0.texto-left = $5.100 por unidad
+                p.mb-0.texto-left = $ 5.100 por unidad
         .col-lg-auto.col-md-9(data-aos="fade-left")
           figure
             img(src="@/assets/curso/temas/img84.png").m-auto
@@ -282,22 +282,22 @@
               tbody
                 tr
                   td.ajuste-border-tabla.texto-left.text-weight-bold Materiales directos
-                  td.texto-left $1.420.000
+                  td.texto-left $ 1.420.000
                 tr.ajuste-color-tabla
                   td.ajuste-border-tabla.texto-left.text-weight-bold Mano de obra directa
-                  td.texto-left $680.000
+                  td.texto-left $ 680.000
                 tr
                   td.ajuste-border-tabla.texto-left.text-weight-bold CIF aplicados
-                  td.texto-left $450.000
+                  td.texto-left $ 450.000
                 tr.ajuste-color-tabla
                   td.ajuste-border-tabla.texto-left.text-weight-bold Costo total de operación
-                  td.texto-left $2.550.000
+                  td.texto-left $ 2.550.000
                 tr
                   td.ajuste-border-tabla.texto-left.text-weight-bold Unidades útiles producidas
                   td.texto-left 500
                 tr.ajuste-color-tabla
                   td.ajuste-border-tabla.texto-left.text-weight-bold Costo unitario
-                  td.texto-left $5.100
+                  td.texto-left $ 5.100
     Separador
     #t_4_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 4.4 Métodos de asignación y verificación del cálculo con datos de origen
@@ -364,7 +364,7 @@
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | #[b Pregunta de control:] ¿la cantidad consumida coincide con las salidas registradas y con la unidad de medida usada?
+                    | #[b Pregunta de control:] ¿La cantidad consumida coincide con las salidas registradas y con la unidad de medida usada?
               .col-xl-6
                 figure
                   img(src='@/assets/curso/temas/img87.png', alt='' style="max-width: 500px").m-auto
@@ -379,7 +379,7 @@
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | #[b Pregunta de control:] ¿el tiempo cargado corresponde al trabajo realmente ejecutado?
+                    | #[b Pregunta de control:] ¿El tiempo cargado corresponde al trabajo realmente ejecutado?
               .col-xl-6
                 figure
                   img(src='@/assets/curso/temas/img88.png', alt='' style="max-width: 500px").m-auto
@@ -394,7 +394,7 @@
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | #[b Pregunta de control:] ¿la tasa y la base aplicadas fueron las correctas?
+                    | #[b Pregunta de control:] ¿La tasa y la base aplicadas fueron las correctas?
               .col-xl-6
                 figure
                   img(src='@/assets/curso/temas/img89.png', alt='' style="max-width: 500px").m-auto
@@ -409,7 +409,7 @@
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | #[b Pregunta de control:] ¿las unidades del cálculo corresponden a unidades terminadas y útiles?
+                    | #[b Pregunta de control:] ¿Las unidades del cálculo corresponden a unidades terminadas y útiles?
               .col-xl-6
                 figure
                   img(src='@/assets/curso/temas/img90.png', alt='' style="max-width: 500px").m-auto
@@ -424,7 +424,7 @@
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | #[b Pregunta de control:] ¿la merma, tolerancia y rendimiento usados son los definidos por la empresa?
+                    | #[b Pregunta de control:] ¿La merma, tolerancia y rendimiento usados son los definidos por la empresa?
               .col-xl-6
                 figure
                   img(src='@/assets/curso/temas/img91.png', alt='' style="max-width: 500px").m-auto
@@ -435,24 +435,24 @@
             .col-lg.mb-4.mb-lg-0
               p #[b Ejemplo aplicado]
               p Una empresa registra 1.200 unidades terminadas en la hoja de costeo, pero el reporte de producción presenta 1.160 unidades útiles y 40 defectuosas no recuperables.
-              p Si el costo total fue $9.280.000, calcular el unitario sobre 1.200 arroja:
+              p Si el costo total fue $ 9.280.000, calcular el unitario sobre 1.200 arroja:
               .caja-7.mb-3.text-white(data-aos="zoom-in")
                 .row.align-items-center.justify-content-center
                   .col-lg-6.texto-right
                     .caja-8.text-center
-                      p.mb-0.line--bottom $9.280.000
+                      p.mb-0.line--bottom $ 9.280.000
                       p.mb-0 1.200
                   .col-lg-6.p-0
-                    p.mb-0.texto-left = $7.733
+                    p.mb-0.texto-left = $ 7.733
               p Mientras que hacerlo sobre 1.160 da:
               .caja-7.mb-3.text-white(data-aos="zoom-in")
                 .row.align-items-center.justify-content-center
                   .col-lg-6.texto-right
                     .caja-8.text-center
-                      p.mb-0.line--bottom $9.280.000
+                      p.mb-0.line--bottom $ 9.280.000
                       p.mb-0 1.160
                   .col-lg-6.p-0
-                    p.mb-0.texto-left = $8.000
+                    p.mb-0.texto-left = $ 8.000
             .col-lg-auto.col-md-9(data-aos="fade-left")
               figure
                 img(src="@/assets/curso/temas/img92.png").m-auto

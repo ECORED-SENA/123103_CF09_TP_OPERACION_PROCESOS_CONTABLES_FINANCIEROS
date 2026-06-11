@@ -57,7 +57,7 @@
           figure
             img(src='@/assets/curso/temas/img26.svg', alt='' style="width: 85px").m-auto
         .col-xl.col-md-10
-          p.mb-0 #[b Por ejemplo], si los CIF presupuestados del mes son $12.000.000 y la base presupuestada son 3.000 horas máquina, la tasa será $4.000 por hora máquina. Si una orden consume 25 horas máquina, se le asignan $100.000 de CIF. Esta lógica hace visible el criterio de asignación y facilita la revisión del cálculo.
+          p.mb-0 #[b Por ejemplo], si los CIF presupuestados del mes son $ 12.000.000 y la base presupuestada son 3.000 horas máquina, la tasa será $ 4.000 por hora máquina. Si una orden consume 25 horas máquina, se le asignan $ 100.000 de CIF. Esta lógica hace visible el criterio de asignación y facilita la revisión del cálculo.
     p.mb-5 A continuación, se presentan los conceptos operativos más importantes para organizar la acumulación y distribución de costos dentro de la empresa. Su finalidad es facilitar la comprensión inicial del trabajo por centros de costo.
     .bg-2
       .px-5
@@ -232,7 +232,7 @@
           p Por ejemplo, si una empresa compra materia prima en kilogramos, pero produce en gramos, necesita convertir para evitar errores de cálculo.
           .caja-7.mb-3.text-white.text-center(data-aos="zoom-in")
             p.mb-0 Una relación básica sería: 1 kilogramo = 1.000 gramos
-          p Si el precio por kilogramo es $8.500, entonces el costo por gramo será:
+          p Si el precio por kilogramo es $ 8.500, entonces el costo por gramo será:
           .caja-7.mb-3.text-white(data-aos="zoom-in")
             .row.align-items-center.justify-content-center
               .col-lg-3.p-0
@@ -332,7 +332,7 @@
                       p.mb-0 90
                   .col-lg-6.p-0
                     p.mb-0.texto-left = 0,20 kilos por unidad
-              p Si el costo del kilo es $6.000, el costo unitario de ese material será:
+              p Si el costo del kilo es $ 6.000, el costo unitario de ese material será:
               .caja-7.mb-3.text-white.text-center(data-aos="zoom-in")
                 p.mb-0 0,20 x $ 6.000 = $ 1.200
               p.mb-0 Esta relación entre volumen y consumo es la base del costeo unitario. Por eso, si el dato de producción útil está mal levantado, el costo unitario también quedará distorsionado (García Colín, 2014).

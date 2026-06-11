@@ -9,7 +9,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg.mb-4.mb-lg-0
         .caja-1.ajuste-caja-1-1(data-aos="fade-right")
-          p.mb-0 La empresa no puede aplicar un sistema de costeo útil si no define con claridad qué metodología responde mejor a su forma de operar. En términos prácticos, las metodologías de costeo sirven para organizar la acumulación, asignación y cálculo de los costos según la lógica del producto o del servicio. No es lo mismo costear una orden específica de producción, un proceso continuo de fabricación o un conjunto de actividades que sostienen la prestación del servicio. Por eso, este capítulo se concentra en tres rutas de costeo que aparecen con frecuencia en la práctica empresarial: costeo por órdenes, costeo por procesos y costeo por actividades
+          p.mb-0 La empresa no puede aplicar un sistema de costeo útil si no define con claridad qué metodología responde mejor a su forma de operar. En términos prácticos, las metodologías de costeo sirven para organizar la acumulación, asignación y cálculo de los costos según la lógica del producto o del servicio. No es lo mismo costear una orden específica de producción, un proceso continuo de fabricación o un conjunto de actividades que sostienen la prestación del servicio. Por eso, este capítulo se concentra en tres rutas de costeo que aparecen con frecuencia en la práctica empresarial: costeo por órdenes, costeo por procesos y costeo por actividades.
       .col-lg-auto.col-md-9(data-aos="fade-left")
         figure
           img(src="@/assets/curso/temas/img55.svg").m-auto
@@ -56,7 +56,7 @@
                     .caja-8.text-center
                       p.mb-0.line--bottom Costo total de la orden
                       p.mb-0 Unidades terminadas de la orden
-              p Por ejemplo, si una orden de 200 unidades consumió $1.800.000 en materiales directos, $900.000 en mano de obra directa y $600.000 en CIF aplicados, el costo total será $3.300.000 y el costo unitario será:
+              p Por ejemplo, si una orden de 200 unidades consumió $ 1.800.000 en materiales directos, $ 900.000 en mano de obra directa y $ 600.000 en CIF aplicados, el costo total será $ 3.300.000 y el costo unitario será:
               .caja-7.mb-3.text-white(data-aos="zoom-in")
                 .row.align-items-center.justify-content-center
                   .col-lg-6.texto-right
@@ -64,7 +64,7 @@
                       p.mb-0.line--bottom $ 3.300.000
                       p.mb-0 200
                   .col-lg-6.p-0
-                    p.mb-0.texto-left = $16.500 por unidad
+                    p.mb-0.texto-left = $ 16.500 por unidad
               p.mb-0 Esta fórmula es sencilla, pero depende de un buen levantamiento de requisiciones, tiempos y bases de aplicación de costos indirectos.
             .col-lg-auto.col-md-9(data-aos="fade-left")
               figure
@@ -180,7 +180,7 @@
           p #[b Ejemplo:] si un departamento terminó 800 unidades y dejó 200 unidades en proceso al 50 %, las unidades equivalentes serán:
           .caja-7.mb-3.text-white.text-center(data-aos="zoom-in")
             p.mb-0 800 + (200 × 0,50) = 900 unidades equivalentes
-          p Si los costos acumulados fueron $4.500.000, el costo unitario equivalente será:
+          p Si los costos acumulados fueron $ 4.500.000, el costo unitario equivalente será:
           .caja-7.text-white(data-aos="zoom-in")
             .row.align-items-center.justify-content-center
               .col-lg-6.texto-right
@@ -220,10 +220,10 @@
                   td.texto-left 900
                 tr
                   td.ajuste-border-tabla.texto-left.text-weight-bold Costos acumulados del proceso
-                  td.texto-left $4.500.000
+                  td.texto-left $ 4.500.000
                 tr.ajuste-color-tabla
                   td.ajuste-border-tabla.texto-left.text-weight-bold Costo unitario equivalente
-                  td.texto-left $5.000
+                  td.texto-left $ 5.000
     p.mb-0 En el entorno empresarial, esta metodología es útil cuando no resulta práctico identificar el costo por lote individual, porque la producción fluye de manera continua. Sin embargo, exige registros disciplinados de unidades iniciadas, terminadas, transferidas y en proceso, así como un control claro del porcentaje de avance. Sin esa información, el costo por proceso pierde precisión.
     Separador
     #t_3_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -259,8 +259,8 @@
             .col-lg-auto.col-md-9(data-aos="fade-left")
               figure
                 img(src="@/assets/curso/temas/img68.png").m-auto
-          p.mb-0 Ejemplo: si la actividad “inspección” cuesta $2.400.000 al mes y se realizan 120 inspecciones, la tasa será $20.000 por inspección.
-          p.mb-0 Si un producto requiere 8 inspecciones, se le asignarán $160.000 por esa actividad.
+          p.mb-0 Ejemplo: si la actividad “inspección” cuesta $ 2.400.000 al mes y se realizan 120 inspecciones, la tasa será $ 20.000 por inspección.
+          p.mb-0 Si un producto requiere 8 inspecciones, se le asignarán $ 160.000 por esa actividad.
         p.mb-5 Este enfoque es más detallado que el costeo tradicional, pero también exige mejor levantamiento de información sobre actividades y conductores. Esta tabla presenta cómo se relacionan las actividades con sus conductores de costo. Su finalidad es facilitar la comprensión de la asignación de costos indirectos en un sistema ABC.
         .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade-right")
           h5 Tabla 4.
@@ -277,22 +277,22 @@
             tbody
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left.text-weight-bold Preparación de máquinas
-                td.ajuste-border-tabla.texto-left $3.000.000
+                td.ajuste-border-tabla.texto-left $ 3.000.000
                 td.ajuste-border-tabla.texto-left Número de preparaciones
                 td.ajuste-border-tabla.texto-left 60
-                td.texto-left $50.000
+                td.texto-left $ 50.000
               tr
                 td.ajuste-border-tabla.texto-left.text-weight-bold Inspección de calidad
-                td.ajuste-border-tabla.texto-left $2.400.000
+                td.ajuste-border-tabla.texto-left $ 2.400.000
                 td.ajuste-border-tabla.texto-left Número de inspecciones
                 td.ajuste-border-tabla.texto-left 120
-                td.texto-left $20.000
+                td.texto-left $ 20.000
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left.text-weight-bold Despacho de pedidos
-                td.ajuste-border-tabla.texto-left $1.800.000
+                td.ajuste-border-tabla.texto-left $ 1.800.000
                 td.ajuste-border-tabla.texto-left Número de despachos
                 td.ajuste-border-tabla.texto-left 90
-                td.texto-left $20.000
+                td.texto-left $ 20.000
         Separador
         #t_3_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
           h2 3.4 Tarjetas tiempo, asignación de CIF y determinación del costo final
@@ -319,8 +319,8 @@
               p.text-center Después, para cada orden, proceso o unidad de análisis:
               .caja-7.mb-3.text-white.text-center(data-aos="zoom-in")
                 p.mb-0 CIF aplicados = Tasa predeterminada × Base real consumida
-              p Por ejemplo, si los CIF presupuestados son $15.000.000 y la base presupuestada son 5.000 horas de MOD, la tasa será $3.000 por hora de MOD.
-              p Si una orden consumió 40 horas, se le asignan $120.000 de CIF.
+              p Por ejemplo, si los CIF presupuestados son $ 15.000.000 y la base presupuestada son 5.000 horas de MOD, la tasa será $ 3.000 por hora de MOD.
+              p Si una orden consumió 40 horas, se le asignan $ 120.000 de CIF.
               p.mb-0 Con materiales, mano de obra y CIF ya identificados, se obtiene el costo final. En una orden, se suman los tres componentes. En un proceso, se distribuyen entre unidades equivalentes. En ABC, se agregan los costos directos y los costos de actividades asignados.
         .row.justify-content-center.align-items-center.mb-5
           .col-lg.mb-4.mb-lg-0

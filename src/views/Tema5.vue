@@ -49,32 +49,32 @@
               .col-xl
                 .row.mb-2.m-0(data-aos="fade-right")
                   .col-lg.caja-13
-                    p.mb-0 =SUMA(rango)
+                    p.mb-0 <b>=SUMA</b>(rango)
                   .col-lg.caja-14
                     p.mb-0 Totalizar materiales, horas o costos acumulados.
                 .row.mb-2.m-0(data-aos="fade-right")
                   .col-lg.caja-13
-                    p.mb-0 =PRODUCTO(celda1;celda2)
+                    p.mb-0 <b>=PRODUCTO</b>(celda1;celda2)
                   .col-lg.caja-14
                     p.mb-0 Calcular costo por cantidad y tarifa.
                 .row.mb-2.m-0(data-aos="fade-right")
                   .col-lg.caja-13
-                    p.mb-0 =SI(prueba_lógica;valor_si_verdadero;valor_si_falso)
+                    p.mb-0 <b>=SI</b>(prueba_lógica;valor_si_verdadero;valor_si_falso)
                   .col-lg.caja-14
                     p.mb-0 Aplicar validaciones simples, por ejemplo cuando el consumo supera el estándar.
                 .row.mb-2.m-0(data-aos="fade-right")
                   .col-lg.caja-13
-                    p.mb-0 =SI.ERROR(fórmula;valor_alternativo)
+                    p.mb-0 <b>=SI.ERROR</b>(fórmula;valor_alternativo)
                   .col-lg.caja-14
                     p.mb-0 Evitar mensajes de error en divisiones o búsquedas incompletas.
                 .row.mb-2.m-0(data-aos="fade-right")
                   .col-lg.caja-13
-                    p.mb-0 =BUSCARV(...)
+                    p.mb-0 <b>=BUSCARV</b>(...)
                   .col-lg.caja-14
                     p.mb-0 Traer tarifas, códigos o centros de costo desde una tabla base.
                 .row.m-0(data-aos="fade-right")
                   .col-lg.caja-13
-                    p.mb-0 =SUMAPRODUCTO(rango1;rango2)
+                    p.mb-0 <b>=SUMAPRODUCTO</b>(rango1;rango2)
                   .col-lg.caja-14
                     p.mb-0 Calcular valores totales de materiales o actividades en una sola operación.
         .caja-4.p-5.mb-5(data-aos="fade-right")

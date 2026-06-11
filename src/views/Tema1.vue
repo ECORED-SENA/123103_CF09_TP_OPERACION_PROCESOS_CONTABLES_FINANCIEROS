@@ -134,25 +134,25 @@
                 th.ajuste-border-tabla.texto-left Criterio
                 th.ajuste-border-tabla.texto-left Tipo
                 th.ajuste-border-tabla.texto-left Característica
-                th.texto-left Ejemplo
+                th.texto-lrft Ejemplo
             tbody
               tr
-                td.ajuste-border-tabla.texto-right.text-weight-bold Comportamiento
+                td.ajuste-border-tabla.texto-left.text-weight-bold Comportamiento
                 td.ajuste-border-tabla.texto-left Fijo
                 td.ajuste-border-tabla.texto-left No cambia significativamente dentro de cierto nivel de actividad
                 td.texto-left Arriendo de planta
               tr.ajuste-color-tabla
-                td.ajuste-border-tabla.texto-right.text-weight-bold Comportamiento
+                td.ajuste-border-tabla.texto-left.text-weight-bold Comportamiento
                 td.ajuste-border-tabla.texto-left Variable
                 td.ajuste-border-tabla.texto-left Cambia según el volumen de producción o servicio
                 td.texto-left Materia prima principal
               tr
-                td.ajuste-border-tabla.texto-right.text-weight-bold Asignación
+                td.ajuste-border-tabla.texto-left.text-weight-bold Asignación
                 td.ajuste-border-tabla.texto-left Directo
                 td.ajuste-border-tabla.texto-left Se identifica fácilmente con el producto o servicio
                 td.texto-left Mano de obra del operario principal
               tr.ajuste-color-tabla
-                td.ajuste-border-tabla.texto-right.text-weight-bold Asignación
+                td.ajuste-border-tabla.texto-left.text-weight-bold Asignación
                 td.ajuste-border-tabla.texto-left Indirecto
                 td.ajuste-border-tabla.texto-left Requiere una base de reparto o asignación
                 td.texto-left Energía de planta
@@ -172,7 +172,7 @@
                 h4.mb-4 Pódcast
                 TarjetaAudio.color-acento-contenido.mb-3(
                   texto="Normativa contable sobre medición de inventarios y costos"
-                  :audio="require('@/assets/componentes/audios/audio-ej.mp3')"
+                  :audio="require('@/assets/curso/podcast/normativa.mp3')"
                   @audio-hover="mostrarIndicadorTarjetaAudio = false"
                 )
           .col-xl-auto.d-none.d-xl-block
@@ -200,7 +200,7 @@
                   figure
                     img(src='@/assets/curso/temas/img19.jpg', alt='').m-auto
                 .col-xl.fit___box_container
-                  p.mb-0 Por ejemplo, una empresa puede definir qué producción entregará semanalmente el consumo de materiales, talento humano reportará las horas de mano de obra, contabilidad consolidará los CIF y el analista de costos verificará los datos antes del cálculo final.
+                  p.mb-0 Por ejemplo, una empresa puede definir qué producción entregará semanalmente; el consumo de materiales, talento humano reportará las horas de mano de obra, contabilidad consolidará los CIF y el analista de costos verificará los datos antes del cálculo final.
         p.mb-5 Esta simple organización mejora notablemente la trazabilidad de la información y permite detectar errores antes de que afecten el costo unitario o total. A continuación, se presenta una forma sencilla de organizar el plan de costeo dentro de la empresa. Su finalidad es mostrar que el costeo necesita actividades, responsables y tiempos definidos.
         .row.align-items-center.mb-5
           .col-xl-auto(data-aos="fade-right")
