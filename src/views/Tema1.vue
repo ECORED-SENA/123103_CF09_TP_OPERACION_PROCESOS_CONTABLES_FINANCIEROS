@@ -137,22 +137,22 @@
                 th.texto-left Ejemplo
             tbody
               tr
-                td.ajuste-border-tabla.texto-left.text-weight-bold Comportamiento
+                td.ajuste-border-tabla.texto-right.text-weight-bold Comportamiento
                 td.ajuste-border-tabla.texto-left Fijo
                 td.ajuste-border-tabla.texto-left No cambia significativamente dentro de cierto nivel de actividad
                 td.texto-left Arriendo de planta
               tr.ajuste-color-tabla
-                td.ajuste-border-tabla.texto-left.text-weight-bold Comportamiento
+                td.ajuste-border-tabla.texto-right.text-weight-bold Comportamiento
                 td.ajuste-border-tabla.texto-left Variable
                 td.ajuste-border-tabla.texto-left Cambia según el volumen de producción o servicio
                 td.texto-left Materia prima principal
               tr
-                td.ajuste-border-tabla.texto-left.text-weight-bold Asignación
+                td.ajuste-border-tabla.texto-right.text-weight-bold Asignación
                 td.ajuste-border-tabla.texto-left Directo
                 td.ajuste-border-tabla.texto-left Se identifica fácilmente con el producto o servicio
                 td.texto-left Mano de obra del operario principal
               tr.ajuste-color-tabla
-                td.ajuste-border-tabla.texto-left.text-weight-bold Asignación
+                td.ajuste-border-tabla.texto-right.text-weight-bold Asignación
                 td.ajuste-border-tabla.texto-left Indirecto
                 td.ajuste-border-tabla.texto-left Requiere una base de reparto o asignación
                 td.texto-left Energía de planta
