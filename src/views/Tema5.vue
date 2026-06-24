@@ -322,7 +322,7 @@
         .row.justify-content-center.mb-5
           .col-lg-10
             AcordionA(tipo="a" clase-tarjeta="tarjeta acordeonA")(data-aos="zoom-in")
-              .row(titulo="Hoja de cálculo").ajuste-cajaAcordion
+              .row.aling-items-center(titulo="Hoja de cálculo").ajuste-cajaAcordion
                 .col-xl-7.mb-4.mb-lg-0.ajuste-vineta
                   ul.fa-ul.mb-0
                     li.mb-0
