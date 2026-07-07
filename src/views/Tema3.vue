@@ -160,7 +160,7 @@
         figure
           img(src='@/assets/curso/temas/img65.jpg', alt='').m-auto
       .col-lg
-        p.mb-0 Esta metodología es habitual en industrias como #[b alimentos, químicos, bebidas, plásticos o textiles], donde se elaboran grandes volúmenes de unidades similares. La dificultad principal del costeo por procesos aparece cuando al cierre del período existen unidades terminadas y unidades en proceso con distintos niveles de avance.
+        p.mb-0 Esta metodología es habitual en industrias como #[b alimentos, químicos, bebidas, plásticos o textiles], donde se elaboran grandes volúmenes de unidades similares. La dificultad principal del costeo por procesos aparece cuando, al cierre del período, existen unidades terminadas y unidades en proceso con distintos niveles de avance.
     p.mb-5 Para resolverlo, se trabaja con producción equivalente, que convierte las unidades parcialmente terminadas en una cantidad equivalente de unidades completas. Así, el costo no se reparte solo entre las terminadas, sino entre las unidades equivalentes del período.
     .caja-4.p-5.mb-5(data-aos="fade-right")
       .row.justify-content-center.align-items-center.mb-3

@@ -32,7 +32,7 @@
             figure
               img(src='@/assets/curso/temas/img4.jpg', alt='').m-auto
           .col-lg
-            p.mb-0 En el marco contable colombiano para pymes, incorporado en el Decreto 2420 de 2015, el costo de los inventarios incluye costos de compra, costos de transformación y otros costos necesarios para darles su condición y ubicación actuales. Dentro de los costos de transformación se incluyen los costos directamente relacionados con las unidades de producción, como la mano de obra directa, y una distribución sistemática de los costos indirectos de producción variables o fijos (Función Pública, 2015).
+            p.mb-0 En el marco contable colombiano para pymes, incorporado en el Decreto 2420 de 2015, el costo de los inventarios incluye costos de compra, costos de transformación y otros costos necesarios para darles su condición y ubicación actuales. Dentro de los costos de transformación se incluyen los costos directamente relacionados con las unidades de producción, como la mano de obra directa, y una distribución sistemática de los costos indirectos de producción, variables o fijos (Función Pública, 2015).
         .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5(data-aos="zoom-in")
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/temas/img5.jpg')})`}"
